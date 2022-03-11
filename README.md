@@ -9,7 +9,15 @@ My Chrome Extension
 
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+$ npm install
+
+## Usage
+
+$ npm run watch
+
+go to chrome://extensions/
+
+Load unpuck ext -> ..\build\
 
 ## Contribution
 
